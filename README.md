@@ -1,2 +1,6 @@
-# product-landing-page
-A modern landing page design using HTML and CSS, highlighting product features, pricing, and call-to-action sections with responsive layout.
+# Product Landing Page
+
+A professional product landing page with features, media, and a call-to-action.
+
+## How to View
+Open `index.html` in your browser.
